@@ -22,6 +22,7 @@ gem 'rubocop'
 # Devise security gem
 gem 'devise'
 
+# gem 'simple_token_authentication', '~> 1.0'
 
 gem 'rack-cors', :require => 'rack/cors'
 # Use Redis adapter to run Action Cable in production
